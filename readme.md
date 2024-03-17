@@ -26,7 +26,7 @@ Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/B
 
 ### Custom Textures
 
-Manual doanload [Custom Tectures](https://www.nexusmods.com/valheim/mods/48), then:
+Manual download [Custom Tectures](https://www.nexusmods.com/valheim/mods/48), then:
 
 - Extract the contents to a known folder
 - Open r2modman and go to Valheim (default or your preferred profile from above)
