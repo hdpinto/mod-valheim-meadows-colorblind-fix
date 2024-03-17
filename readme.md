@@ -31,14 +31,18 @@ Manual doanload [Custom Tectures](https://www.nexusmods.com/valheim/mods/48), th
 - Extract the contents to a known folder
 - Open r2modman and go to Valheim (default or your preferred profile from above)
 - Go to Settings
+
 ![](https://hdpinto.s-ul.eu/lUpZA3hs)
-- Scroll down and cllick "Import local mod"
+- Scroll down and click "Import local mod"
+
 ![](https://hdpinto.s-ul.eu/xQTnOObb)
 - Click "Select file", then navigate to the folder where you extracted Custom Textures
+
 ![](https://hdpinto.s-ul.eu/pNPB6mWT)
 - Select the `CustomTextures.dll` file
 - Click "Import"
 - Verify the mods are installed and enabled by clicking "Installed" on the left hand pane
+
 ![](https://hdpinto.s-ul.eu/0JvtMGn3)
 - Click "Start modded" to start Valheim with the mods so they can create the necessary folders
 
