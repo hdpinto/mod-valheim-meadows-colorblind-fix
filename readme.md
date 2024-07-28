@@ -9,7 +9,7 @@ A Valheim texture pack that retextures raspberries and mushrooms
 
 ## Features
 
-- A simple asset retexture using [Custom Textures](https://www.nexusmods.com/valheim/mods/48)
+- A simple asset retexture using [Custom Textures](https://www.nexusmods.com/valheim/mods/2796)
 - Enhances color contrast for mushrooms and raspberries for players with red/green colorblindness.
 
 ## Installation
@@ -26,7 +26,7 @@ Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/B
 
 ### Custom Textures
 
-Manual download [Custom Tectures](https://www.nexusmods.com/valheim/mods/48), then:
+Manual download [Custom Textures](https://www.nexusmods.com/valheim/mods/2796), then:
 
 - Extract the contents to a known folder
 - Open r2modman and go to Valheim (default or your preferred profile from above)
